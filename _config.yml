@@ -1,0 +1,10 @@
+# Site settings
+title: Andy Bettisworth
+email: andy.bettisworth@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://accreu.com" # the base hostname & protocol for your site
+twitter_username: abettisworth
+github_username:  wurde
+
+# Build settings
+markdown: kramdown
