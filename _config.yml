@@ -5,6 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://accreu.com" # the base hostname & protocol for your site
 twitter_username: abettisworth
 github_username:  wurde
+sass:
+  style: compressed
 
 # Build settings
 markdown: kramdown
