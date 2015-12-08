@@ -1,3 +1,3 @@
-[Link to Waffle.io board](http://waffle.io/wurde/wurde.github.io)
+[![Stories in Ready](https://badge.waffle.io/wurde/wurde.github.io.svg?label=ready&title=Ready)](http://waffle.io/wurde/wurde.github.io)
 
 ## My GitHub page.
